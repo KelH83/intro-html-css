@@ -7,6 +7,7 @@
 body{
     background-color: #F9EFDB;
     text-align: center;
+    padding: 5px;
 }
 
 img{
@@ -16,8 +17,8 @@ img{
 }
 
 #projector{
-    width:100px;
-    height: 100px;
+    width:150px;
+    height: 150px;
     border-radius: 50%;
     padding: 5px 10px 15px 12px;
     border:none;
@@ -34,7 +35,15 @@ a{
     font-size: 20px;
     padding: 15px;
     margin-left: 5px;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
+    color: #638889
+}
+
+a:hover{
+    background-color: #EBD9B4;
+    color: #000;
+    border-radius: 15px;
+    font-size: 22px;
 }
 
 ol,ul{

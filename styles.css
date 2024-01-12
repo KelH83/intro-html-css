@@ -117,7 +117,6 @@ hr{
     background-color: #F9EFDB;
     padding:25px;
     margin: 10px;
-    grid-row: 1 /span 2;
     border:solid 10px #9DBC98;
 }
 
@@ -127,7 +126,6 @@ hr{
     background-color: #F9EFDB;
     padding: 25px;
     margin: 10px;
-    grid-row: 1 /span 2;
     border:solid 10px #9DBC98;
 }
 

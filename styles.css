@@ -16,6 +16,7 @@ img{
     width: 250px;
     height: 350px;
     border: solid 4px #9DBC98;
+    margin:10px;
 }
 
 #projector{
@@ -108,7 +109,6 @@ hr{
     grid-template-columns: auto;
     grid-template-rows: auto;
     margin: 20px;
-    background-color: #9DBC98;
 }
 
 .film1{
@@ -118,6 +118,7 @@ hr{
     padding:25px;
     margin: 10px;
     grid-row: 1 /span 2;
+    border:solid 10px #9DBC98;
 }
 
 .film2{
@@ -127,4 +128,5 @@ hr{
     padding: 25px;
     margin: 10px;
     grid-row: 1 /span 2;
+    border:solid 10px #9DBC98;
 }
